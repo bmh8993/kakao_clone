@@ -2,6 +2,10 @@
 # Created by https://www.gitignore.io/api/vim,macos,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=vim,macos,visualstudiocode
 
+### private ###
+study.md
+
+
 ### macOS ###
 # General
 .DS_Store
